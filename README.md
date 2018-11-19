@@ -1,4 +1,4 @@
-#Animal Gifphy Stastic
+# Animal Gifphy Stastic
 
 ### Overview
 This app allows users to add animal's name and search related images using Gifphy API.
